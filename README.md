@@ -1,4 +1,11 @@
-# Setup neovim on new maschine
+# Setup neovim on a new maschine
+
+Remove or backup the old nvim cofiguration folder
+```
+cd .config
+rm -rf nvim
+git clone git@github.com:michelm117/nvim.git
+```
 
 ## Install neovim, nodejs, python, etc
 ```
