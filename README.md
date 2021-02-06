@@ -70,3 +70,4 @@ Generall configuration can be changed in ./genral/settings.vim
 - Press `CTRL + N` to open `NERDTREE` in current working directory.
 - Press `MAPLEADER + h` to split window horizontally.
 - Press `MAPLEADER + v` to split window vertically.
+- Press `TAB` for autocompletion.
